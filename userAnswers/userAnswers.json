@@ -1,0 +1,46 @@
+{
+  "user": "::1",
+  "choices": {
+    "1": "choice1",
+    "2": "choice1",
+    "3": "choice1",
+    "4": "choice1",
+    "5": "choice1"
+  }
+}{
+  "user": "::1",
+  "choices": {
+    "1": "choice2",
+    "2": "choice3",
+    "3": "choice4",
+    "4": "choice1",
+    "5": "choice2"
+  }
+}{
+  "user": "::1",
+  "choices": {
+    "1": "int 3_a;",
+    "2": "int $main;",
+    "3": "None of these",
+    "4": "int",
+    "5": "unsigned short"
+  }
+}{
+  "user": "::1",
+  "choices": {
+    "1": "int 3_a;",
+    "2": "int $main;",
+    "3": "LowerCase Letter",
+    "4": "int",
+    "5": "unsigned short"
+  }
+}{
+  "user": "::1",
+  "choices": {
+    "1": "int 3_a;",
+    "2": "int $main;",
+    "3": "LowerCase Letter",
+    "4": "int",
+    "5": "unsigned short"
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "question1": "Which of the following is not a valid variable name declaration?",
+    "choiceq1": {
+        "choice1": "int _a3;",
+        "choice2": "int 3_a;",
+        "choice3": "int a_3;",
+        "choice4": "int _3a;"
+    },
+    "question2": "Which of the following is not a valid C variable name?",
+    "choiceq2": {
+        "choice1": "int number;",
+        "choice2": "float rate;",
+        "choice3": "int variable_count;",
+        "choice4": "int $main;"
+    },
+    "question3": "All keywords in C are in____",
+    "choiceq3": {
+        "choice1": "LowerCase Letter",
+        "choice2": "UpperCase Letter",
+        "choice3": "CamelCase Letter",
+        "choice4": "None of these"
+    },
+    "question4": "The format identifier ‘%i’ is also used for _____ data type.",
+    "choiceq4": {
+        "choice1": "char",
+        "choice2": "int",
+        "choice3": "float",
+        "choice4": "double"
+    },
+    "question5": "Which data type is most suitable for storing a number 65000 in a 32-bit system?",
+    "choiceq5": {
+        "choice1": "signed short",
+        "choice2": "unsigned short",
+        "choice3": "int",
+        "choice4": "long"
+    }
+}
